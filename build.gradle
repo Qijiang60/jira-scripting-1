@@ -1,0 +1,19 @@
+plugins {
+    id 'groovy'
+    id 'idea'
+}
+
+defaultTasks 'idea'
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://maven.atlassian.com/repository/public' }
+    maven { url = 'https://nexus.adaptavist.com/content/repositories/external' }
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.3'
+    compile 'com.atlassian.jira:jira-core:6.4.7'
+    compile 'com.onresolve.jira.groovy:groovyrunner:5.0.14'
+}
+
