@@ -6,7 +6,10 @@ import org.codehaus.jackson.type.TypeReference
 
 import javax.ws.rs.core.MultivaluedMap
 import javax.ws.rs.core.Response
+import groovy.transform.BaseScript
+import com.onresolve.scriptrunner.runner.rest.common.CustomEndpointDelegate
 
+@BaseScript CustomEndpointDelegate delegate 
 log = Logger.getLogger("*")
 def mapper = new ObjectMapper();
 
