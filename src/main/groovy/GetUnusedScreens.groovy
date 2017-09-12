@@ -1,6 +1,7 @@
 import com.atlassian.jira.component.ComponentAccessor
 import com.atlassian.jira.issue.fields.screen.FieldScreen
 import com.atlassian.jira.issue.fields.screen.FieldScreenManager
+import com.atlassian.jira.issue.fields.screen.FieldScreenSchemeManager
 import com.atlassian.jira.workflow.JiraWorkflow
 import com.atlassian.jira.workflow.WorkflowManager
 import com.onresolve.scriptrunner.runner.rest.common.CustomEndpointDelegate
@@ -34,6 +35,43 @@ getUnusedScreens(httpMethod: "GET", groups: ["jira-administrators"]) {
  *
  * */
 def doGetUnusedScreens() {
+    def FieldScreenManager screenManager = ComponentAccessor.getFieldScreenManager()
+    List<FieldScreenDto> screensNotInAnyWorkflow = getScreensNotInAnyWorkflow()
+    List<FieldScreenDto> screensNotInAnyScheme = getScreensNotInAnyScheme()
+    List<FieldScreenDto> unusedScreens = new LinkedList<>()
+
+    screenManager.getFieldScreens().each {
+        screen ->
+            def FieldScreenDto screenDto = new FieldScreenDto(screen.getId().toString(), screen.getName())
+            if (screensNotInAnyWorkflow.contains(screenDto) && screensNotInAnyScheme.contains(screenDto)) {
+                unusedScreens.add(screenDto)
+            }
+    }
+
+    return unusedScreens;
+}
+
+def getScreensNotInAnyScheme() {
+    def FieldScreenSchemeManager fieldScreenSchemeManager = ComponentAccessor.getComponent(FieldScreenSchemeManager
+            .class)
+    def FieldScreenManager screenManager = ComponentAccessor.getFieldScreenManager()
+    def List<FieldScreenDto> screens = screenManager.getFieldScreens().collect {
+        fs -> new FieldScreenDto(fs.getId().toString(), fs.getName())
+    }
+
+    fieldScreenSchemeManager.getFieldScreenSchemes().each {
+        scheme ->
+            scheme.getFieldScreenSchemeItems().each {
+                fsi ->
+                    String screenId = fsi.getFieldScreenId().toString()
+                    screens.removeIf({ FieldScreenDto fs -> fs.id == screenId } as Predicate<FieldScreenDto>)
+            }
+    }
+    return screens
+}
+
+
+def getScreensNotInAnyWorkflow() {
     def WorkflowManager workflowManager = ComponentAccessor.getWorkflowManager()
     def FieldScreenManager screenManager = ComponentAccessor.getFieldScreenManager()
     def List<FieldScreenDto> screens = screenManager.getFieldScreens().collect {
@@ -45,7 +83,7 @@ def doGetUnusedScreens() {
             workflow.getAllActions().each {
                 action ->
                     def screenId = action.getMetaAttributes().get("jira.fieldscreen.id")
-                    screens.removeIf( { FieldScreenDto fs -> fs.id == screenId } as Predicate<FieldScreenDto>)
+                    screens.removeIf({ FieldScreenDto fs -> fs.id == screenId } as Predicate<FieldScreenDto>)
             }
     }
     return screens;
@@ -74,5 +112,32 @@ class FieldScreenDto {
 
     void setName(String name) {
         this.name = name
+    }
+
+    boolean equals(o) {
+        if (this.is(o)) return true
+        if (getClass() != o.class) return false
+
+        FieldScreenDto that = (FieldScreenDto) o
+
+        if (id != that.id) return false
+        if (name != that.name) return false
+
+        return true
+    }
+
+    int hashCode() {
+        int result
+        result = (id != null ? id.hashCode() : 0)
+        result = 31 * result + (name != null ? name.hashCode() : 0)
+        return result
+    }
+
+    @Override
+    public String toString() {
+        return "FieldScreenDto{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                '}';
     }
 }
