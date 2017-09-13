@@ -3,6 +3,7 @@ import com.atlassian.jira.issue.fields.screen.FieldScreen
 import com.atlassian.jira.issue.fields.screen.FieldScreenManager
 import com.atlassian.jira.issue.fields.screen.FieldScreenSchemeManager
 import com.atlassian.jira.workflow.JiraWorkflow
+import com.atlassian.jira.workflow.WorkflowActionsBean
 import com.atlassian.jira.workflow.WorkflowManager
 import com.onresolve.scriptrunner.runner.rest.common.CustomEndpointDelegate
 import groovy.transform.BaseScript
@@ -70,7 +71,6 @@ def getScreensNotInAnyScheme() {
     return screens
 }
 
-
 def getScreensNotInAnyWorkflow() {
     def WorkflowManager workflowManager = ComponentAccessor.getWorkflowManager()
     def FieldScreenManager screenManager = ComponentAccessor.getFieldScreenManager()
@@ -82,8 +82,13 @@ def getScreensNotInAnyWorkflow() {
         workflow ->
             workflow.getAllActions().each {
                 action ->
-                    def screenId = action.getMetaAttributes().get("jira.fieldscreen.id")
-                    screens.removeIf({ FieldScreenDto fs -> fs.id == screenId } as Predicate<FieldScreenDto>)
+                    WorkflowActionsBean workflowActionsBean = new WorkflowActionsBean();
+                    def FieldScreen fs = workflowActionsBean.getFieldScreenForView(action);
+                    log.info('Wokrflow: '+ workflow.name + ' action:'+ action.name + ' action.getMetaAttributes() : ' + action.getMetaAttributes().toString())
+                    if(fs !=null ){
+                        def screenId = fs.getId().toString()
+                        screens.removeIf({ FieldScreenDto fs1 -> fs1.id == screenId } as Predicate<FieldScreenDto>)
+                    }
             }
     }
     return screens;
