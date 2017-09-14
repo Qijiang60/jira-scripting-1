@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.security.auth.trustedapps:atlassian-trusted-apps-core:4.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.security.auth.trustedapps/atlassian-trusted-apps-core/4.1.0/5ad189f11810b5fcaa79ea8ec4be26e431d6d8b0/atlassian-trusted-apps-core-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.security.auth.trustedapps/atlassian-trusted-apps-core/4.1.0/6ef50bffe7eac93c57bacc0c5820cf7b327ce53a/atlassian-trusted-apps-core-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

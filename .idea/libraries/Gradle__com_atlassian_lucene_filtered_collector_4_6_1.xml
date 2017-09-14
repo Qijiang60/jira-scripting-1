@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian:lucene-filtered-collector:4.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian/lucene-filtered-collector/4.6.1/e8a360a6360a89ea4287dd0a9974f000c5d3556f/lucene-filtered-collector-4.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian/lucene-filtered-collector/4.6.1/7e6ca8e28231e34401d20eab576440101a03d843/lucene-filtered-collector-4.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

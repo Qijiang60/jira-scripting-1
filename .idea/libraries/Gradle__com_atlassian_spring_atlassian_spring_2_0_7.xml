@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.spring:atlassian-spring:2.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.spring/atlassian-spring/2.0.7/8effb56a5b694fbddeb06630d53ba71705069914/atlassian-spring-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.spring/atlassian-spring/2.0.7/7d8ebe97c098784e4c3af457908a4d79c55c793b/atlassian-spring-2.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

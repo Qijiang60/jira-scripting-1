@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.bucket:atlassian-bucket:5.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.bucket/atlassian-bucket/5.1.2/3681d260d1002bae3c35208a28a7556303227879/atlassian-bucket-5.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.bucket/atlassian-bucket/5.1.2/168a0f6278342f668f9ef030ece65e12ba900afe/atlassian-bucket-5.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

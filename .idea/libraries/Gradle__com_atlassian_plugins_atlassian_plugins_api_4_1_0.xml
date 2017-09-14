@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.plugins:atlassian-plugins-api:4.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.plugins/atlassian-plugins-api/4.1.0/519a1079ddd76420d44f1b1fd29fa9d45de9e445/atlassian-plugins-api-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.plugins/atlassian-plugins-api/4.1.0/6f4d33d60626c7ff44991cce5d2b00b2c5b5eb78/atlassian-plugins-api-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

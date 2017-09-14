@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.utils:atlassian-processutils:1.7.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.utils/atlassian-processutils/1.7.9/9b60789391b0798279d5c76c929a25ff73b52794/atlassian-processutils-1.7.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.utils/atlassian-processutils/1.7.9/82f17c364cb236f82922c537a3c866bd53ab9d8a/atlassian-processutils-1.7.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.sourcemap:sourcemap:1.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.sourcemap/sourcemap/1.7.2/882b74785914095ef3d72c13dbecc34775bdc6fd/sourcemap-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.sourcemap/sourcemap/1.7.2/c48d70795d4e0cefd2ffca398ad1e441549ea524/sourcemap-1.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

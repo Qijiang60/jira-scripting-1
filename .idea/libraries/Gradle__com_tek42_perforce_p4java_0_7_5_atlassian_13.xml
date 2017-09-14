@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tek42.perforce:p4java:0.7.5-atlassian-13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tek42.perforce/p4java/0.7.5-atlassian-13/2c66b21dd2aa5e6e9905ca212c7ae2251f1bbbf9/p4java-0.7.5-atlassian-13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tek42.perforce/p4java/0.7.5-atlassian-13/7753c3a1e0323e286a8f0a7f49bc1602bb31bc29/p4java-0.7.5-atlassian-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

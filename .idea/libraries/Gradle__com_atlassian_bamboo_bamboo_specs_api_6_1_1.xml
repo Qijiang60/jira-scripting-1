@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.bamboo:bamboo-specs-api:6.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.bamboo/bamboo-specs-api/6.1.1/23de41b19f3d866a9df579358c0238847af05a13/bamboo-specs-api-6.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.bamboo/bamboo-specs-api/6.1.1/4e6e5d0dd5304fdbb5b11846719245e703f3c92/bamboo-specs-api-6.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

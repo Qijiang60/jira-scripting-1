@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian:webwork-compat:1.32">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian/webwork-compat/1.32/a0a705cb8d81777983679ecbd9d2a46a6a61775d/webwork-compat-1.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian/webwork-compat/1.32/c2fa07f7c0bac1b7ea5889552bef8b2343c457a8/webwork-compat-1.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

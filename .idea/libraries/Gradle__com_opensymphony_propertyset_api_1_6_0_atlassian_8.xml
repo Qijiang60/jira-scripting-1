@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.opensymphony.propertyset:api:1.6.0-atlassian-8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opensymphony.propertyset/api/1.6.0-atlassian-8/dc6e56ea79fd1d7592fa49ceaa03f749638a83b4/api-1.6.0-atlassian-8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opensymphony.propertyset/api/1.6.0-atlassian-8/f9341615f80405f251735a7486d573535f97621b/api-1.6.0-atlassian-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

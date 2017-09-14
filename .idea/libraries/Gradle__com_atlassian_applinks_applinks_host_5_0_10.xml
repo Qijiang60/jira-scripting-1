@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.applinks:applinks-host:5.0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.applinks/applinks-host/5.0.10/8f3073e121cfe71033a528494560a1ac99cb9509/applinks-host-5.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.applinks/applinks-host/5.0.10/4d8ac774c68cb53327909d223deafab4dc0a0a0f/applinks-host-5.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

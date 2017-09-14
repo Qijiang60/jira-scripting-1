@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.aws:atlassian-aws-bootstrap:1.0.145.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.aws/atlassian-aws-bootstrap/1.0.145.1/c52cc8c78b24f6b036f7142675b339953022b6f3/atlassian-aws-bootstrap-1.0.145.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.aws/atlassian-aws-bootstrap/1.0.145.1/43c75f9dbc74ced452dfd4961705864015142c42/atlassian-aws-bootstrap-1.0.145.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

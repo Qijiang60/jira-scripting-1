@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.plugins:atlassian-plugins-osgi-events:4.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.plugins/atlassian-plugins-osgi-events/4.1.0/193cffeef809e8cce5e6bed1c77a1319908c4faf/atlassian-plugins-osgi-events-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.plugins/atlassian-plugins-osgi-events/4.1.0/39d13dd2d3a500448be104d587d3cf3a817a65f8/atlassian-plugins-osgi-events-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

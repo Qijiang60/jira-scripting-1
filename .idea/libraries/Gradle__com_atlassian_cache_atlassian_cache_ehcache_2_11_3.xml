@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.cache:atlassian-cache-ehcache:2.11.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.cache/atlassian-cache-ehcache/2.11.3/c69995d4ee8b1262664d92c03088a42ce1fe8622/atlassian-cache-ehcache-2.11.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.cache/atlassian-cache-ehcache/2.11.3/4d0631052eca1640f59607a533fcd1d29fa1329/atlassian-cache-ehcache-2.11.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

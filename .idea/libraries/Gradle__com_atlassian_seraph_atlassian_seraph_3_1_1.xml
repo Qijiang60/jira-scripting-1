@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.seraph:atlassian-seraph:3.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.seraph/atlassian-seraph/3.1.1/9da20c72d625f70751cd8a3b4083db89bd537e14/atlassian-seraph-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.seraph/atlassian-seraph/3.1.1/ecc7f6624807dfde396dcc43c2a418ea19d27026/atlassian-seraph-3.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

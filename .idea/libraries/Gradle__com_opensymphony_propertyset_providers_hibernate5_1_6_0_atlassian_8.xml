@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.opensymphony.propertyset.providers:hibernate5:1.6.0-atlassian-8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opensymphony.propertyset.providers/hibernate5/1.6.0-atlassian-8/f375978d62b0ff6046f14a777f7c80189834bc4e/hibernate5-1.6.0-atlassian-8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.opensymphony.propertyset.providers/hibernate5/1.6.0-atlassian-8/312bc377de710fe334ffac69c3955f8b2c4bd305/hibernate5-1.6.0-atlassian-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

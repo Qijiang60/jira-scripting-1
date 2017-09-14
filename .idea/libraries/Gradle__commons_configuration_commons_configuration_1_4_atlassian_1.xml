@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: commons-configuration:commons-configuration:1.4-atlassian-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-configuration/commons-configuration/1.4-atlassian-1/9410e0f2862ab17ff05508958a6b392f053a9097/commons-configuration-1.4-atlassian-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-configuration/commons-configuration/1.4-atlassian-1/d7bbf6d0c6531ccb9d1baaec940d7a2b617b20fb/commons-configuration-1.4-atlassian-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

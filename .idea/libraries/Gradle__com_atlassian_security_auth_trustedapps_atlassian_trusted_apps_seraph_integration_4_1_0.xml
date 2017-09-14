@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.security.auth.trustedapps:atlassian-trusted-apps-seraph-integration:4.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.security.auth.trustedapps/atlassian-trusted-apps-seraph-integration/4.1.0/ade474bbc71cb2578ae62c16948b84db56f97c46/atlassian-trusted-apps-seraph-integration-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.security.auth.trustedapps/atlassian-trusted-apps-seraph-integration/4.1.0/ea07f52fb6856a8f1506632c1347ee09139772f5/atlassian-trusted-apps-seraph-integration-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

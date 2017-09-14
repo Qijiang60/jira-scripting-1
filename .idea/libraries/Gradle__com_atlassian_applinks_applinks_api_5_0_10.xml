@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.applinks:applinks-api:5.0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.applinks/applinks-api/5.0.10/7955a9f7bc7a6e33ba64c546459e68c43683e8c3/applinks-api-5.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.applinks/applinks-api/5.0.10/bd6eac00896dab88ede2ab0828fdfd22a8b38165/applinks-api-5.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

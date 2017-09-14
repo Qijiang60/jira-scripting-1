@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hibernate:hibernate-jpamodelgen:5.2.10.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-jpamodelgen/5.2.10.Final/a8966cb92fe18d96ef9988dac5a9359b3fdeea9e/hibernate-jpamodelgen-5.2.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-jpamodelgen/5.2.10.Final/6287f1b1b3d7441c1a1bb4fe39ce0f0d6e791898/hibernate-jpamodelgen-5.2.10.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

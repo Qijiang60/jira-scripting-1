@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hibernate:hibernate-core:5.2.10.Final-atlassian-2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.10.Final-atlassian-2/f94de71043e35c42d0c9f891e2d609b37abffd/hibernate-core-5.2.10.Final-atlassian-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.10.Final-atlassian-2/4aa59e2ec70efc3507b949c92f72f2bfa90e22c9/hibernate-core-5.2.10.Final-atlassian-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

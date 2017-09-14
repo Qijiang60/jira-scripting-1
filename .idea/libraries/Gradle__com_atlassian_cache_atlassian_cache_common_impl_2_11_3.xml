@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.cache:atlassian-cache-common-impl:2.11.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.cache/atlassian-cache-common-impl/2.11.3/db8141bace37a76637f701b6c9beaa70f1de0b11/atlassian-cache-common-impl-2.11.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.cache/atlassian-cache-common-impl/2.11.3/c10a9d5ef4544887a94717145c81f8e408f7f402/atlassian-cache-common-impl-2.11.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

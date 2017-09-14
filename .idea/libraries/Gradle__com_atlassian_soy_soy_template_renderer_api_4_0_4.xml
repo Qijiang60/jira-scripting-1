@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.soy:soy-template-renderer-api:4.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.soy/soy-template-renderer-api/4.0.4/87b746ddc9d057a16db1b00a5b9c2143ee92b95/soy-template-renderer-api-4.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.soy/soy-template-renderer-api/4.0.4/c6aeff1afcb1b9562e765aecbea00b5a67d7fe16/soy-template-renderer-api-4.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

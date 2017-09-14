@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.config:atlassian-config:0.22">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.config/atlassian-config/0.22/2c04f94ed357e7405bedbe908343be6517c9d1e5/atlassian-config-0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.config/atlassian-config/0.22/ad1ce8dff57e12e76f2048f2bc68ab5c73ddd46d/atlassian-config-0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

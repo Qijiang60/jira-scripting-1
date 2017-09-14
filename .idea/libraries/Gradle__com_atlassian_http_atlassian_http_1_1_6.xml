@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.http:atlassian-http:1.1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.http/atlassian-http/1.1.6/4e88814a55c229da1a9f8ee8d01ac23f0310ea9b/atlassian-http-1.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.http/atlassian-http/1.1.6/31f75edf2dea8360a101a2d53686add46ce97202/atlassian-http-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

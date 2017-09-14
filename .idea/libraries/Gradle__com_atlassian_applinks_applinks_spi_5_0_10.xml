@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.applinks:applinks-spi:5.0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.applinks/applinks-spi/5.0.10/3f474ff0240582363a1bb19202f64b57e98080ff/applinks-spi-5.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.applinks/applinks-spi/5.0.10/52f185a9f208827752891643d24e39db867a6d42/applinks-spi-5.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

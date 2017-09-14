@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.mail:atlassian-mail:2.7.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.mail/atlassian-mail/2.7.19/c4b6529fac6810b7d1274cf2b8953cce42566e5d/atlassian-mail-2.7.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.mail/atlassian-mail/2.7.19/6321678de2c79f78e713a20b697c4c2a80dd22e6/atlassian-mail-2.7.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

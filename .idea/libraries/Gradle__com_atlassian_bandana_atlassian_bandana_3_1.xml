@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.bandana:atlassian-bandana:3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.bandana/atlassian-bandana/3.1/2091d961f3ed157a8619035bfcd47b80601fdbf0/atlassian-bandana-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.bandana/atlassian-bandana/3.1/ac8795bf2279ee82c9430cc0b643852e474ab990/atlassian-bandana-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

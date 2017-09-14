@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.event:atlassian-event:3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.event/atlassian-event/3.0.0/c7e5b4c24078ddf3a235d9db626cfed27ef691ab/atlassian-event-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.event/atlassian-event/3.0.0/5d8ddd0069a314a41a5094122a506838a7e491d/atlassian-event-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jvnet.winp:winp:1.17-atlassian1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.winp/winp/1.17-atlassian1/674c3d91ad2826db53a1d7d557d74feae4bc7c4e/winp-1.17-atlassian1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.winp/winp/1.17-atlassian1/2f79145690a562bb2f92dc07b2bed0f33d02d324/winp-1.17-atlassian1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

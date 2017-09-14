@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.atlassian.annotations:atlassian-annotations:1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.annotations/atlassian-annotations/1.1.0/19a8d54fe30cafa009f5b04414a35a1b292c79e1/atlassian-annotations-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.atlassian.annotations/atlassian-annotations/1.1.0/dc2e782029703eb52c69061888239e399f143543/atlassian-annotations-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

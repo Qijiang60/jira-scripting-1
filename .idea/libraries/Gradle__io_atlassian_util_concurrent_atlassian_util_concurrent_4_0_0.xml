@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.atlassian.util.concurrent:atlassian-util-concurrent:4.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.atlassian.util.concurrent/atlassian-util-concurrent/4.0.0/ffc58b3f19278d8cc1b4670938e3225883d90cc8/atlassian-util-concurrent-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.atlassian.util.concurrent/atlassian-util-concurrent/4.0.0/dd517ad760bf2e4e1dddd893e1a4c6de78930c71/atlassian-util-concurrent-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
